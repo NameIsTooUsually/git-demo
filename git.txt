@@ -1,0 +1,4 @@
+初始化本地库 git init；
+查看本体库状态 git status；
+将工作区文件添加到暂存区：git add;
+将工作区的文件提交到本体库：git commit -m "日志信息" 文件名
