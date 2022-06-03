@@ -3,3 +3,7 @@
 将工作区文件添加到暂存区：git add 文件名;
 将工作区的文件提交到本体库：git commit -m "日志信息" 文件名
 查看版本信息：git reflog; git log 查看详细版本信息；
+创建分支 :git branch 分支名
+查看分支 :git branch -v
+切换分支 :git checkout 分支名
+把指定的分支合并到当前分支上 :git merge 分支名
