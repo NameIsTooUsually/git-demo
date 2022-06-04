@@ -7,3 +7,7 @@
 查看分支 :git branch -v
 切换分支 :git checkout 分支名
 把指定的分支合并到当前分支上 :git merge 分支名
+查看远程远程库别名 ： git remote -v
+创建远程库别名 ：git remote add 别名 远程库地址
+删除远程库别名 ：git remote rm 别名
+推动远程库 ：git push 别名/地址 分支名（将本地哪个分支推送到远程库）
